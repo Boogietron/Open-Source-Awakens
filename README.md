@@ -23,3 +23,7 @@ I am going to change this text and push it to Github
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
+
+
+
+I added some more code
