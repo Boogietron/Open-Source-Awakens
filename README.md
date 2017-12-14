@@ -3,25 +3,21 @@
 Original reference clock uploaded from Processing.org
 **KLEIN CLOCK** 
 
-#First see the shot ot the original clock 
+#First see the shot at the original clock 
 
 
 # Link to an image 
-
+# Uploaded through Sourcetree 
 
 ***Italics
 
 
 
 
-# headline 
-## headline2
-### headline3
-#### headline4
-##### headline5
-###### headline6
 
 I am going to change this text and push it to Github 
+
+# Now will upload my version of clock based on the reference clock
 
 ```javascript
 var s = "JavaScript syntax highlighting";
