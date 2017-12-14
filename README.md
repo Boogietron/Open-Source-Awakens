@@ -3,12 +3,16 @@
 Original reference clock uploaded from Processing.org
 **KLEIN CLOCK** 
 
+#First see the shot ot the original clock 
+
+
 # Link to an image 
+
 
 ***Italics
 
 
-![Choco portrait from facebook](http://cdn1-www.dogtime.com/assets/uploads/gallery/border-collie-dog-breed-pictures/1-facethreequarters.jpg)
+
 
 # headline 
 ## headline2
