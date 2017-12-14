@@ -7,7 +7,7 @@ Original reference clock uploaded from Processing.org
 #First see the shot at the original clock 
 
 
-# Linked to the image 
+#### I linked this to the image 
 ### Uploaded through Sourcetree 
 
 
