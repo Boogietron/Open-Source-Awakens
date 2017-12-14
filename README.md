@@ -1,7 +1,7 @@
-# This is a big title
-### This is a smaller title 
-This is not bold text 
-**This is a bold text** 
+# Understanding Github 
+### This is the minimum project requirement
+Original reference clock uploaded from Processing.org
+**KLEIN CLOCK** 
 
 # Link to an image 
 
