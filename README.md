@@ -17,7 +17,7 @@ Original reference clock uploaded from Processing.org
 
 I am going to change this text and push it to Github 
 
-# Now will upload my version of clock based on the reference clock
+
 
 ```javascript
 var s = "JavaScript syntax highlighting";
@@ -29,3 +29,4 @@ alert(s);
 I added some more code
 
 ![screen grab](https://github.com/Boogietron/Open-Source-Awakens/blob/master/Klein_clock__Formative/Screen%20Shot%202017-12-14%20at%2011.51.52.png)
+# Now will upload my version of clock based on the reference clock
