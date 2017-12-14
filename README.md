@@ -1,12 +1,13 @@
 # Understanding Github 
 ### This is my Github project
 Original reference clock uploaded from Processing.org
-**KLEIN CLOCK** 
+
+**I called it KLEIN CLOCK** 
 
 #First see the shot at the original clock 
 
 
-# Link to an image 
+# Linked to the image 
 ### Uploaded through Sourcetree 
 
 
