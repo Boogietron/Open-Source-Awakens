@@ -1,5 +1,5 @@
 # Understanding Github 
-### This is the minimum project requirement
+### This is my Github project
 Original reference clock uploaded from Processing.org
 **KLEIN CLOCK** 
 
@@ -9,10 +9,6 @@ Original reference clock uploaded from Processing.org
 # Link to an image 
 ### Uploaded through Sourcetree 
 
-# H1
-## H2
-###H3
-####H4
 
 ***Italics
 
@@ -28,6 +24,10 @@ I am going to change this text and push it to Github
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
+# H1
+## H2
+###H3
+####H4
 
 
 
