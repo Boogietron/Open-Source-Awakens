@@ -31,3 +31,5 @@ alert(s);
 
 
 I added some more code
+
+![screen grab](https://github.com/Boogietron/Open-Source-Awakens/blob/master/Klein_clock__Formative/Screen%20Shot%202017-12-14%20at%2011.51.52.png)
